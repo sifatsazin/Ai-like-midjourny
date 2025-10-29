@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "An AI-powered image generator similar to MidJourney. Create stunning visuals from text prompts, optionally providing a reference image to guide the creation process. Download your generated images in high quality.",
+  "requestFramePermissions": []
+}
